@@ -1,6 +1,6 @@
 # NdovuGroup
 
-A modern full-stack business platform developed for **Ndovu Group** to streamline business operations, showcase products and services, and provide a secure, scalable web experience.
+Ndovu Group is an enterprise business platform featuring an integrated Content Management System (CMS) that enables administrators to efficiently manage website content, products, users, and business information through a secure, scalable web application.
 
 > **Status:** Completed ✔️
 
