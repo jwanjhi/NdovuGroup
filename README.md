@@ -40,7 +40,7 @@ The application focuses on performance, security, and maintainability using mode
 - Express.js
 
 ### Database
-- PostgreSQL
+- MySQL
 
 ### Tools
 - Git
